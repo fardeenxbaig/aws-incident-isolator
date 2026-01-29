@@ -234,7 +234,7 @@ Built for AWS security teams to automate incident response workflows.
 ## 📞 Support
 
 - Issues: [GitHub Issues](https://github.com/fardeenxbaig/aws-incident-isolator/issues)
-- Documentation: See `Quickstart.md`
+- Documentation: See [Quickstart.md](https://github.com/fardeenxbaig/aws-incident-isolator/blob/main/QUICKSTART.md)
 
 ## ⚠️ Disclaimer
 
