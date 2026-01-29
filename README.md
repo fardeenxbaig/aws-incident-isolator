@@ -1,6 +1,6 @@
-# AWS Incident Isolator
+# AWS Incident Isolator | Quarantine Compromised EC2 instances and IAM Access Keys
 
-Automated Lambda function for security incident response that isolates compromised EC2 instances and rotates leaked IAM access keys.
+Automated Lambda function to isolate compromised EC2 instances and rotate leaked IAM access keys.
 
 ![Architecture](https://img.shields.io/badge/AWS-Lambda-orange) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
