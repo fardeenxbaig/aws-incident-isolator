@@ -1,0 +1,28 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "ec2:DescribeInstances",
+        "ec2:DescribeVolumes",
+        "ec2:CreateSecurityGroup",
+        "ec2:ModifyInstanceAttribute",
+        "ec2:RevokeSecurityGroupEgress",
+        "ec2:CreateSnapshot",
+        "ec2:CreateTags",
+        "iam:UpdateAccessKey",
+        "iam:CreateAccessKey",
+        "iam:ListAccessKeys",
+        "iam:DeleteAccessKey",
+        "secretsmanager:CreateSecret",
+        "secretsmanager:TagResource",
+        "sns:Publish",
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+      ],
+      "Resource": "*"
+    }
+  ]
+}

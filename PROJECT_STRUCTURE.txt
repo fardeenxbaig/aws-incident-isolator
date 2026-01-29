@@ -1,0 +1,13 @@
+# aws-incident-isolator/
+├── incident_response.py          # Lambda function source code
+├── incident_response.zip          # Pre-built Lambda deployment package
+├── trust-policy.json              # IAM trust policy for Lambda role
+├── lambda-policy.json             # IAM permissions policy
+├── setup-sns.sh                   # SNS setup automation script
+├── README.md                      # Main documentation
+├── QUICKSTART.md                  # Quick deployment guide
+├── SNS_SETUP.md                   # SNS configuration guide
+├── SECURITY_ENHANCEMENTS.md       # Security features documentation
+├── CONTRIBUTING.md                # Contribution guidelines
+├── LICENSE                        # MIT License
+└── .gitignore                     # Git ignore file
